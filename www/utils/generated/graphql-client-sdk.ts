@@ -17985,4 +17985,4 @@ export const Selectors = {
   subscription: ZeusSelect<ValueTypes["subscription_root"]>(),
 };
 
-export const Gql = Chain("http://localhost:8080/v1/graphql");
+export const Gql = Chain("https://newhasura.boorran.com/v1/graphql");
