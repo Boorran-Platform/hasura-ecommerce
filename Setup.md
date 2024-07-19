@@ -16,8 +16,8 @@ $ cd hasura
 <assuming you have Hasura CLI installed>
 $ hasura seeds apply
 
-Visit http://localhost:3000 for Next.js frontend
-Visit http://localhost:8080 for Hasura console (admin secret = "my-secret")
+Visit https://web.boorran.com for Next.js frontend
+Visit https://newhasura.boorran.com for Hasura console (admin secret = "my-secret")
 Visit http://localhost:9000 for Minio dashboard (login = "minio:minio123")
 ```
 
