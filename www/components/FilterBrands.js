@@ -41,7 +41,7 @@ const FilterBrands = () => {
 
   // React Life Cycle
   React.useEffect(() => {
-    fetchBrands("http://localhost:3000/api/brands");
+    fetchBrands("https://web.boorran.com/api/brands");
   }, [selectedCategoryState]);
 
   // Local State

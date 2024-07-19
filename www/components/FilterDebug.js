@@ -11,7 +11,7 @@ const FilterDebug = () => {
       <pre style={{ fontSize: 10, background: "whitesmoke", padding: 4 }}>
         {JSON.stringify(searchStateObj, "", 4)}
       </pre>
-      <button onClick={() => fetchOffers("http://localhost:3000/api/offers")}>
+      <button onClick={() => fetchOffers("https://web.boorran.com/api/offers")}>
         Update Results
       </button>
     </>

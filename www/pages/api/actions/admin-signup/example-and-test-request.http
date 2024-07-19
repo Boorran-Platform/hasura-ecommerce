@@ -15,7 +15,7 @@ mutation {
 
 ###
 
-POST http://localhost:3000/api/actions/admin-signup HTTP/1.1
+POST https://web.boorran.com/api/actions/admin-signup HTTP/1.1
 Content-Type: application/json
 
 {
