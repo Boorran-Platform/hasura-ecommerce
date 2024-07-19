@@ -18,7 +18,7 @@ $ hasura seeds apply
 
 Visit https://web.boorran.com for Next.js frontend
 Visit https://newhasura.boorran.com for Hasura console (admin secret = "my-secret")
-Visit http://localhost:9000 for Minio dashboard (login = "minio:minio123")
+Visit https://images.boorran.com for Minio dashboard (login = "minio:minio123")
 ```
 
 1. Clone the repo to your local machine.

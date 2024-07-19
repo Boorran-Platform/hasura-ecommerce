@@ -46,7 +46,7 @@ Visit https://web.boorran.com for Next.js frontend
   Login at /account/login has default credentials "user@site.com:password"
   Login at /admin/account/login has default credentials "admin@site.com:password"
 Visit https://newhasura.boorran.com for Hasura console (admin secret = "my-secret")
-Visit http://localhost:9000 for Minio dashboard (login = "minio:minio123")
+Visit https://images.boorran.com for Minio dashboard (login = "minio:minio123")
 ```
 
 ## 2 Minute Video Demo

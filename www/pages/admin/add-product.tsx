@@ -175,7 +175,7 @@ const AdminOrders = () => {
     const res = await req.json();
 
     console.log("Got image upload result:", res);
-    const imageUrl = `http://localhost:9000/${res.file.original.Bucket}/${res.file.original.Key}`;
+    const imageUrl = `https://images.boorran.com/${res.file.original.Bucket}/${res.file.original.Key}`;
     console.log("View image at:", imageUrl);
     return imageUrl;
   }
